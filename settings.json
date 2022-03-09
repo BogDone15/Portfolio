@@ -1,0 +1,44 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "editor.tabSize": 1,
+    "editor.wordWrap": "on",
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "./css/"
+      }
+    ],
+    "liveServer.settings.CustomBrowser": "chrome",
+    "highlight-matching-tag.styles": {
+        "opening": {
+          "left": {
+            "custom": {
+              "borderWidth": "0 0 0 3px",
+              "borderStyle": "solid",
+              "borderColor": "yellow",
+              "borderRadius": "5px",
+              "overviewRulerColor": "white"
+            }
+          },
+          "right": {
+            "custom": {
+              "borderWidth": "0 3px 0 0",
+              "borderStyle": "solid",
+              "borderColor": "yellow",
+              "borderRadius": "5px",
+              "overviewRulerColor": "white"
+            }
+          }
+        }
+      },
+      "emmet.includeLanguages": { 
+        "javascript": "html" 
+      },
+      "workbench.startupEditor": "newUntitledFile",
+      "liveSassCompile.settings.autoprefix": [],
+      "workbench.colorTheme": "Palenight Theme",
+      "diffEditor.ignoreTrimWhitespace": false
+}
+
